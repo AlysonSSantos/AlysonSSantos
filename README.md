@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @AlysonSSantos 
-- 👀 I’m interested in learn as much as possible about programming
-- 🌱 I’m currently learning programming in "C" language
-- ⏩ I'm from Brazil
-- 📫 How to reach me: instagram (@alyson_s_)
+- 👋 { Hi, I’m @AlysonSSantos;
+- 👀 I’m interested in learn as much as possible about programming;
+- 📚 HTML and CSS responsive;
+- 🌱 I’m currently learning JavaScript;
+- ⏩ I'm from Brazil;
+- 📫 How to reach me: instagram (@alyson_s_); }
