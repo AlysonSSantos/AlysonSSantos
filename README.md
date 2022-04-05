@@ -1,4 +1,4 @@
-const presentation = () => {
+const presentation = ( ) => {
 - 👋 Hi, I’m @AlysonSSantos;
 - 👀 I’m interested in learn as much as possible about programming;
 - 📚 HTML and CSS responsive and clean;
