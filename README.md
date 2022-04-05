@@ -1,6 +1,8 @@
-- 👋 { Hi, I’m @AlysonSSantos;
+const presentation = () => {
+- 👋 Hi, I’m @AlysonSSantos;
 - 👀 I’m interested in learn as much as possible about programming;
-- 📚 HTML and CSS responsive;
-- 🌱 I’m currently learning JavaScript;
+- 📚 HTML and CSS responsive and clean;
+- 📚 Clean Code JavaScript;
 - ⏩ I'm from Brazil;
-- 📫 How to reach me: instagram (@alyson_s_); }
+- 📫 How to reach me: instagram (@alyson_s_); 
+}
